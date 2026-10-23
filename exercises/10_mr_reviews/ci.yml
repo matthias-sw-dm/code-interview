@@ -1,0 +1,113 @@
+---
+# yaml-language-server: $schema=https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/javascripts/editor/schema/ci.json
+
+.python_vars:
+  variables:
+    PYTHONPATH: "src"
+    UV_CACHE_DIR: ".uv-cache"
+
+.docker_vars:
+  variables:
+    IMAGE: "$CI_REGISTRY_IMAGE:$CI_COMMIT_SHORT_SHA"
+    IMAGE_LATEST: "$CI_REGISTRY_IMAGE:latest"
+
+.rules_mr:
+  rules:
+    - if: $CI_MERGE_REQUEST_IID
+
+.rules_main:
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+.rules_mr_or_main:
+  rules:
+    - if: $CI_MERGE_REQUEST_IID
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+# ─── Jobs ────────────────────────────────────────────────────────────────────
+
+lint:
+  extends:
+    - .python_vars
+    - .rules_mr_or_main
+  stage: verify
+  image: $PYTHON_IMAGE
+  script:
+    - pip install ruff
+    - ruff check src/
+
+unit_test:
+  extends:
+    - .python_vars
+    - .rules_mr_or_main
+  stage: verify
+  needs:
+    - job: lint
+  image: $PYTHON_IMAGE
+  script:
+    - pip install pytest
+    - pytest tests/unit/
+
+integration_test:
+  extends:
+    - .python_vars
+    - .rules_mr_or_main
+  stage: verify
+  needs:
+    - job: unit_test
+  image: $PYTHON_IMAGE
+  script:
+    - pip install pytest
+    - pytest tests/integration/
+
+build:
+  extends:
+    - .docker_vars
+    - .rules_mr_or_main
+  stage: build
+  needs:
+    - job: integration_test
+  script:
+    - docker build -t $IMAGE .
+    - docker push $IMAGE
+    - echo $IMAGE > image.txt
+
+deploy_feature:
+  extends:
+    - .docker_vars
+    - .rules_mr
+    - .rules_main
+  stage: deploy-feature
+  needs:
+    - job: build
+  environment:
+    name: feature-$CI_MERGE_REQUEST_IID
+    on_stop: stop_feature
+    url: https://feature-$CI_MERGE_REQUEST_IID.example.com
+  script:
+    - IMAGE=$(cat image.txt)
+    - echo "Deploying $IMAGE to feature env $CI_MERGE_REQUEST_IID"
+
+stop_feature:
+  stage: deploy-feature
+  environment:
+    name: feature-$CI_MERGE_REQUEST_IID
+    action: stop
+  rules:
+    - if: $CI_MERGE_REQUEST_IID
+  script:
+    - echo "Tearing down feature environment $CI_MERGE_REQUEST_IID"
+
+deploy_staging:
+  extends:
+    - .docker_vars
+    - .rules_main
+  stage: deploy-staging
+  needs:
+    - job: build
+  environment:
+    name: staging
+    url: https://staging.example.com
+  script:
+    - IMAGE=$(cat image.txt)
+    - echo "Deploying $IMAGE to staging"

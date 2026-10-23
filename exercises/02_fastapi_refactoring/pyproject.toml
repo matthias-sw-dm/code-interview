@@ -1,0 +1,9 @@
+[project]
+name = "02-fastapi-refactoring"
+version = "0.1.0"
+requires-python = "~=3.14.0"
+dependencies = [
+  "fastapi>=0.115.0",
+  "pyjwt>=2.9.0",
+  "uvicorn[standard]>=0.32.0",
+]

@@ -1,0 +1,36 @@
+---
+# yaml-language-server: $schema=https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/javascripts/editor/schema/ci.json
+
+include:
+  - local: ci.yml
+
+stages:
+  - verify
+  - build
+  - deploy-feature
+  - deploy-staging
+  - deploy-prod
+
+default:
+  tags:
+    - k8s
+    - shared
+  interruptible: true
+
+variables:
+  PYTHON_IMAGE: "python:3.12-slim"
+
+deploy_prod:
+  stage: deploy-prod
+  extends:
+    - .docker_vars
+    - .rules_main
+  needs:
+    - job: deploy_staging
+  environment:
+    name: production
+    url: https://app.example.com
+  script:
+    - IMAGE=$(cat image.txt)
+    - echo "Deploying $IMAGE to production"
+    - kubectl set image deployment/app app=$IMAGE --namespace=prod

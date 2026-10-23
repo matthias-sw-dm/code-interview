@@ -1,0 +1,23 @@
+### Gradle ###
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Java ###
+*.class
+*.log
+
+### IDEs ###
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+out/
+bin/
+
+### OS ###
+.DS_Store

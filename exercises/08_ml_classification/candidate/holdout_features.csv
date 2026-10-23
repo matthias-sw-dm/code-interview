@@ -1,0 +1,601 @@
+ticket_id,subject,body,channel,priority,customer_tenure_months
+100000,App bug,"Dear support, the app is very slow since the last version.",chat,normal,92
+100001,App not working,the app is very slow since the last version.,chat,normal,103
+100002,Where is my order?,"Dear support, tracking says delivered but I got nothing. This is really annoying.",chat,low,81
+100003,Where is my order?,"Hello, it was delivered to the wrong address. This is really annyoing.",email,normal,36
+100004,App problem,"Hi team, the app shows a blank screen after the update.",email,normal,16
+100005,Password,"Good morning, the two-factor code does not work.",email,normal,72
+100006,Cannot sign in,please delete my account.,app,normal,48
+100007,App bug,"Hi team, the barcode scanner in the app does not work.",app,high,60
+100008,Scanner,the app is very slow since the last version. Can you fix this?,email,low,94
+100009,Refund,"Good morning, my voucher code is not accepted.",email,normal,20
+100010,Refund,paypal payment failed at checkout.,chat,low,31
+100011,Where is my order?,"Good morning, the parcel arrived damaged.",chat,normal,100
+100012,Order not delivered,my package has not arrived.,email,normal,95
+100013,App not working,the app shows a blank screen after the update.,email,normal,30
+100014,App not working,"Good morning, I cannot scan my loyalty card in the app. This is really annoying.",email,low,18
+100015,Scanner,"Dear support, the app is very slow since the last version. Please help.",phone,low,92
+100016,Refund,the invoice shows the wrong amount.,email,low,115
+100017,Damaged parcel,tracking says delivered but I got nothing.,phone,normal,91
+100018,Question about my visit,my package has not arrived and the queue at the checkout was far too long.,chat,low,48
+100019,Scanner,"Hi team, I cannot scan my loyalty card in the app. Can you fix this?",chat,normal,87
+100020,Order not delivered,"Dear support, it was delivered to the wrong address. Can you fix this?",email,low,59
+100021,Voucher,"Good morning, I forgot my password and the refund has not arrived yet.",email,normal,80
+100022,Order not delivered,"Dear support, it was delivered to the wrong address. Thanks in advance.",chat,low,77
+100023,Damaged parcel,"Good morning, my package has not arrived. Can you fix this?",email,low,83
+100024,Damaged parcel,"Dear support, it was delivered to the wrong address. Thanks in advacne.",chat,low,1
+100025,Where is my order?,my package has not arrived.,email,high,89
+100026,Account,the password reset email neevr arrievs.,app,low,63
+100027,Scanner,"Hi team, the app crashes on satrtup.",email,low,79
+100028,Damaged parcel,"Hi team, delivery is already a week late. Thanks in advance.",email,normal,111
+100029,Invoice,"Dear support, the invoice shows the wrong amount. This is really annoying.",chat,normal,23
+100030,Where is my order?,the parcel arrived damaged.,email,low,55
+100031,Invoice,"Good morning, I was billed after cancelling my order. Thanks in advance.",email,high,117
+100032,App problem,,email,high,103
+100033,Order not delivered,"Hello, tracking says delivered but I got nothing. This is really annoying.",email,high,109
+100034,Invoice,my credit card was charged twice. This is really annoying.,chat,low,51
+100035,Cannot sign in,"Dear support, I forgot my password. Can you fix this?",chat,normal,90
+100036,Order not delivered,"Good morning, my package has not arrived.",phone,normal,13
+100037,App problem,"Good morning, the app crashes on startup.",email,high,94
+100038,Damaged parcel,"Good morning, it was delivered to the wrong address and the two-factor code does not work. Can you fix this?",email,normal,33
+100039,App problem,the barcode scanner in the app does not work. Thanks in advance.,email,low,101
+100040,Store complaint,"Hello, the cashier was very rude.",email,normal,103
+100041,Wrong charge,"Hello, my credit card was charged twice. Can you fix this?",chat,low,30
+100042,Damaged parcel,tracking says delivered but I got nothing and my voucher code is not accepted. Thanks in advance.,whatsapp,normal,57
+100043,Order not delivered,the parcel arrived damaged. Please help.,app,normal,95
+100044,Password,I forgot my password. Please help.,chat,high,23
+100045,App bug,the voucher does not show up in the app.,email,normal,69
+100046,Delivery issue,it was delivered to the wrong address. Thanks in advance.,app,normal,64
+100047,App not working,the app shows a blank screen after the updat.e This is really annoying.,email,normal,37
+100048,Order not delivered,it was delivered to the wrong address. Thanks in advance.,email,normal,68
+100049,Wrong charge,"Hello, my voucher code is not accepted.",chat,low,95
+100050,Store complaint,"Hello, the queue at the checkotu was far too lon.g",email,low,51
+100051,Damaged parcel,"Good morning, tracking says delivered but I got nothing and I cannot scan my loyalty card in the app. Thanks in advance.",email,normal,8
+100052,Wrong charge,"Good morning, the invoice shows the wrong amount.",email,normal,7
+100053,Wrong charge,"Dear support, the refund has not arrived yet.",chat,normal,17
+100054,Store feedback,"Good morning, the price in the store differs from the shelf label. Please hlep.",email,normal,84
+100055,Where is my order?,"Hi team, my package has not arrived. Please help.",email,normal,84
+100056,Click and collect,my click and collect order was not ready. Please help.,email,normal,78
+100057,Damaged parcel,the parcel arrived damaged. Can you fix this?,phone,normal,65
+100058,Scanner,"Hello, the app crashes on startup. This is really annoying.",chat,normal,22
+100059,Question about my visit,"Dear support, the price in the store differs from the shelf label. Thanks in advance.",app,high,73
+100060,App problem,"Good morning, the app crashes on startup. Thanks in advance.",email,normal,111
+100061,Click and collect,"Dear support, the proudct was out of stock in the store.",chat,low,107
+100062,Invoice,"Dear support, the invoice shows the wrong amount. Thanks in advance.",chat,high,93
+100063,Wrong charge,"Good morning, direct debit was rejected. Thanks in advance.",email,low,113
+100064,Delivery issue,"Good morning, the voucher does not show up in the app and tracking says delivered but I got nothing.",phone,low,20
+100065,Refund,the invoice shows the wrong amount and I cannot scan my loyalty card in the app. This is really annoying.,app,normal,88
+100066,Wrong charge,"Dear support, direct debit was rejected. Thanks in advance.",chat,low,118
+100067,Wrong charge,"Hello, my credit card was charged twice.",phone,low,11
+100068,Damaged parcel,"Hello, delivery is already a week late. Please help.",email,low,106
+100069,Where is my order?,"Hi team, it was delivered to the wrong address and the app shows a blank screen after the update. Thanks in advance.",phone,normal,82
+100070,Delivery issue,"Good morning, tracking says delivered but I got nothing. Please help.",app,low,109
+100071,Account,"Hello, I want to change my email address. Please help.",chat,normal,41
+100072,Where is my order?,"Dear support, I received the wrong item.",email,high,78
+100073,Wrong charge,"Hello, direct debit was rejected. Please help.",email,normal,53
+100074,Question about my visit,"Helol, the price in the store differs from the shelf label.",chat,low,23
+100075,App problem,"Hello, the app shows a blank screen after the update. This is really annoying.",chat,normal,112
+100076,Refund,"Good morning, I was billed after cancelling my order.",email,normal,93
+100077,App bug,"Hi team, the app is very slow since the last version. Please help.",app,low,73
+100078,Question about my visit,"Dear support, the store was dirty.",email,normal,101
+100079,Account,my profile shosw someone else's data.,email,normal,8
+100080,Delivery issue,,email,high,38
+100081,Cannot sign in,"Hi team, my profile shows someone else's data. Thanks in advance.",phone,low,95
+100082,Click and collect,the cashier was very rude. Please help.,chat,low,80
+100083,Payment problem,"Hello, the refund has not arirved yet.",email,normal,89
+100084,Invoice,direct debit was rejected. Please help.,chat,normal,101
+100085,Invoice,my credit card was charged twice. This is really annoying.,email,normal,87
+100086,Click and collect,"Dear support, the product was out of stock in the store.",email,normal,87
+100087,Voucher,"Good morning, I was billed after cancelling my order. Can you fix this?",email,low,24
+100088,Store complaint,"Dear support, my click and collect order was not ready. This is really annoying.",email,low,43
+100089,App bug,the voucher does not show up in the app.,email,normal,98
+100090,Order not delivered,"Dear support, tracking says delivered but I got nothing. Can you fix this?",email,low,72
+100091,Where is my order?,"Good morning, delivery is already a week late.",whatsapp,normal,99
+100092,Wrong charge,paypal payment failed at checkout. Can you fix this?,app,low,0
+100093,Click and collect,"Dear support, the queue at the checkout was far too long. This is really annoying.",chat,normal,88
+100094,Account,"Good morning, I want to change my email address. This is really annoying.",email,normal,19
+100095,Where is my order?,"Hi team, delivery is already a week late.",phone,normal,110
+100096,Account,"Hello, I cannot log in anymore. Please help.",email,normal,67
+100097,Damaged parcel,"Hi team, I received the wrong item. This is really annoying.",email,normal,96
+100098,Order not delivered,the pickup point is closed and the product was out of stock in the store.,email,normal,100
+100099,Invoice,I was billed after cancelling my order. This is really annoyign.,phone,normal,111
+100100,Delivery issue,"Dear support, the parcel arrived damaged. This is really annoying.",phone,high,18
+100101,Where is my order?,"Hello, delivery is already a week late.",whatsapp,normal,103
+100102,Store feedback,"Hi team, the queue at the checkout was far too long.",whatsapp,normal,41
+100103,Voucher,"Hello, I was billed after cancelling my order. Can you fix this?",chat,normal,44
+100104,Invoice,"Hello, I was billed after cancelling my order. Can you fix this?",chat,low,30
+100105,Voucher,"Hi team, direct debit was rejected. This is really annoying.",chat,high,19
+100106,Account,my profile shows someone else's data.,email,high,24
+100107,Voucher,the invoice shows the wrong amount.,phone,high,84
+100108,Store complaint,"Good morning, the price in the store differs from the shelf label.",chat,normal,84
+100109,Account,"Hello, my profile shows someone else's data. This is really annoying.",chat,high,60
+100110,Delivery issue,"Good morning, I received the wrong item. Can you fix this?",whatsapp,normal,63
+100111,Delivery issue,tracking says delivered but I got nothing. Can you fix this?,chat,normal,73
+100112,Password,I cannot log in anymore. Thanks in advance.,chat,low,108
+100113,Where is my order?,"Dear support, the parcel arrived damaged. Thanks in advance.",email,high,70
+100114,Store complaint,"Hi team, the queue at the checkout was far too long. Thanks in advance.",chat,low,66
+100115,Store feedback,"Dear support, the quuee at the checkout was far too long. Can you fix this?",email,low,113
+100116,Delivery issue,the pickup point is closed. Thanks in advance.,app,low,41
+100117,Scanner,"Hello, push notifications are not showing. This is really annoying.",phone,low,67
+100118,Damaged parcel,"Dear support, my package has not arrived. Please help.",email,normal,53
+100119,Wrong charge,my voucher code is not accepted and the store was closed during opening hours. Can you fix this?,email,low,119
+100120,Where is my order?,"Hi team, the parcel arrived damaged. This is really annoying.",chat,normal,33
+100121,Store complaint,"Good morning, the product was out of stock in the store. Can you fix this?",email,normal,28
+100122,Scanner,"Hello, push notifications are not showing.",app,normal,34
+100123,Order not delivered,"Hello, the pickup point is closed. Can you fix this?",app,low,116
+100124,Voucher,the invoice shows the wrong amount. Please help.,chat,high,50
+100125,Login problem,the password reset email never arrives.,email,normal,77
+100126,Where is my order?,"Hi team, the parcel arrived damaged. This is really annoying.",chat,low,85
+100127,Damaged parcel,my package has not arrived. Can you fix this?,chat,normal,97
+100128,Where is my order?,the pickup point is closed and my voucher code is not accepted. This is really annoying.,chat,normal,66
+100129,Password,I forgot my password. This is really annoying.,chat,low,26
+100130,Where is my order?,"Hello, the parcel arrived damaged.",email,normal,66
+100131,Wrong charge,the refund has not arrived yet. This is really annoying.,email,low,110
+100132,Where is my order?,"Good morning, delivery is already a week late.",chat,normal,119
+100133,App not working,push notifications are not showing. Thanks in advance.,chat,normal,59
+100134,App not working,"Good morning, the app is very slow since the last version.",phone,low,6
+100135,Login problem,I want to change my email address.,phone,low,45
+100136,Damaged parcel,the pickup point is closed.,email,normal,68
+100137,Order not delivered,the pickup point is closed and paypal payment failed at checkout. Can you fix this?,chat,high,76
+100138,Delivery issue,delivery is already a week late. This is really annoying.,email,low,102
+100139,Order not delivered,I want to change my email address and the pickup point is closed. Please help.,chat,normal,15
+100140,Voucher,"Good morning, the invoice shows the wrong amount.",email,normal,39
+100141,App problem,,email,normal,40
+100142,Order not delivered,tracking says delivered but I got nothing. Please help.,app,normal,88
+100143,Store complaint,"Hi team, my click and collect order was not ready.",chat,normal,7
+100144,Payment problem,"Hello, the invoice shows the wrong amount. This is really annoying.",phone,normal,47
+100145,Invoice,the invoice shows the wrong amount. Can you fix this?,email,normal,56
+100146,Delivery issue,delivery is already a week late. Thanks in advance.,email,normal,82
+100147,,the invoice shows the wrong amount.,app,normal,6
+100148,,"Hello, delivery is already a week late. Thanks in advance.",chat,normal,100
+100149,Account,"Hi team, my profile shows someone else's data. This is really annoying.",chat,low,11
+100150,Voucher,the invoice shows the wrong amount.,app,normal,119
+100151,Store complaint,the store was closed during opening hours. Please help.,chat,low,117
+100152,App not working,"Dear support, the app shows a blank screen after the update.",email,normal,106
+100153,Login problem,"Dear support, I cannot log in anymore.",app,normal,64
+100154,Login problem,I cannot log in anymore.,email,high,23
+100155,Order not delivered,my package has not arrived. Thanks in advance.,email,normal,58
+100156,Invoice,the invoice shows the wrong amount.,chat,normal,65
+100157,Delivery issue,"Hello, paypal payment failed at checkout and the parcel arrived damaged. This is really annoying.",email,normal,53
+100158,Store complaint,"Hello, the store was dirty. Thanks in advance.",app,normal,14
+100159,Refund,"Good morning, my voucher code is not accepted. Can you fix this?",chat,normal,47
+100160,Account,"Hi team, my profile shwos someone else's data.",email,normal,32
+100161,Login problem,I cannot log in anymore. Thanks in advance.,app,high,77
+100162,Damaged parcel,the pickup point is closed. Please help.,email,normal,57
+100163,App not working,I cannot scan my loyalty card in the app.,chat,normal,108
+100164,Voucher,"Good morning, paypal payment failed at checkout. Thanks in advance.",app,normal,57
+100165,App bug,"Dear support, the app shows a blank screen after the update. Can you fix thi?s",phone,low,81
+100166,Account,the password reset email never arrives and I received the wrong item.,chat,normal,58
+100167,,"Dear support, tracking says delivered but I got nothing. This is really annoying.",email,low,10
+100168,Payment problem,"Hi team, direct debit was rejected.",email,normal,66
+100169,Login problem,"Hello, I was billed after cancelling my order and the password reset email never arrives. This is really annoying.",email,low,11
+100170,App bug,the voucher does not show up in the app. This is really annoying.,email,normal,116
+100171,Login problem,please delete my account. Thanks in advance.,email,low,41
+100172,Delivery issue,delivery is already a week late. Can you fix this?,email,high,0
+100173,Account,"Hi team, please delete my account. This is really annoying.",email,low,54
+100174,Store feedback,"Hi tema, my click and collect order was not ready. Thanks in advance.",email,normal,55
+100175,Damaged parcel,it was delivered to the wrong address. Can you fix this?,email,low,36
+100176,Where is my order?,the parcel arrived damaged and I want to change my email address.,app,high,29
+100177,Damaged parcel,"Dear support, it was delivered to the wrong address. Thanks in advance.",app,high,10
+100178,Scanner,"Dear support, the app is very slow since the last version. Can you fix this?",app,low,88
+100179,Account,"Hi team, the pickup point is closed and I forgot my password.",email,normal,62
+100180,Account,"Dear support, the two-factor code does not work. Please help.",email,normal,34
+100181,Refund,direct debit was rejectde.,chat,normal,89
+100182,Password,I forgot my password.,email,normal,118
+100183,Store feedback,the product was out of stock in the store. Please help.,app,normal,91
+100184,Where is my order?,"Hello, delivery is already a week late. Thanks in advance.",chat,normal,72
+100185,Delivery issue,"Dear support, the parcel arrived damaged and push notifications are not showing. Thanks in advance.",phone,normal,115
+100186,Login problem,my profile shows someone else's data.,app,normal,72
+100187,Where is my order?,"Good morning, tracking says delivered but I got nothing.",app,normal,56
+100188,App problem,"Dear support, the barcode scanner in the app does not work. Can you fix this?",app,low,109
+100189,Question about my visit,"Hi team, the queue at the checkout was far too long. Can you fix this?",email,normal,46
+100190,Order not delivered,the pickup point is closed. Can you fix this?,email,normal,11
+100191,Cannot sign in,"Hello, I forgot my password.",app,normal,75
+100192,Click and collect,the store was closed during opening hours. Can you fix this?,chat,normal,24
+100193,Delivery issue,"Hello, delivery is already a week late. Can you fix this?",email,normal,104
+100194,Login problem,"Good morning, I cannot log in anymore.",email,low,0
+100195,Password,"Good morning, I cannot log in anymore. This is really annoying.",email,high,95
+100196,Damaged parcel,the pickup point is closed.,email,low,71
+100197,Delivery issue,"Dear support, my package has not arrived.",email,normal,2
+100198,Damaged parcel,"Dear support, tracking says delivered but I got nothing. Can you fix this?",email,normal,68
+100199,Store feedback,"Good morning, the cashier was very rude. Thanks in advance.",email,low,97
+100200,Voucher,direct debit was rejected.,app,low,23
+100201,Click and collect,the cashier was very rude.,app,high,30
+100202,Login problem,"Good morning, I want to change my email address. Please help.",chat,high,118
+100203,Store feedback,"Hi team, the store was dirty. This is really annoying.",chat,high,92
+100204,App not working,"Hello, delivery is already a week late and the app is very slow since the last version. This is really annoying.",email,low,101
+100205,Scanner,"Dear support, push notifications are not showing. Thanks in advance.",chat,normal,44
+100206,,,email,low,67
+100207,Delivery issue,"Good morning, my package has not arrived.",email,normal,103
+100208,Store feedback,"Good morning, my click and collect order was not ready and the refund has not arrived yet. This is realyl annoying.",email,normal,14
+100209,Account,"Dear support, I forgot my password and delivery is already a week late. Please help.",email,normal,99
+100210,Damaged parcel,I received the wrong item. This is really annoying.,email,normal,36
+100211,Delivery issue,"Hi team, the pickup point is closed. This is really annoying.",phone,normal,62
+100212,Delivery issue,"Hello, I received the wrong item. This is realyl annoying.",email,normal,25
+100213,App not working,"Good morning, the app shows a blank screen after the update. This is really annoiyng.",chat,normal,115
+100214,Payment problem,"Hi team, my voucher code is not accepted.",app,high,44
+100215,Account,"Dear support, the two-factor code does not work. This is really annoying.",chat,normal,110
+100216,Wrong charge,"Dear support, paypal payment failed at checkout.",chat,high,34
+100217,Account,my click and collect order was not ready and I want to change my email address.,chat,normal,104
+100218,Voucher,"Good morning, my credit card was charged twice.",email,normal,71
+100219,Invoice,the refund has not arrived yet. This is really annoying.,email,high,70
+100220,Voucher,I was billed after cancelling my order.,app,normal,92
+100221,Order not delivered,"Hello, delivery is already a week late. Please help.",email,normal,115
+100222,App bug,push notifications are not showing. Thanks in advance.,chat,normal,41
+100223,Wrong charge,"Good morning, I was billed afetr cancelling my order.",chat,normal,62
+100224,Where is my order?,it was delivered to the wrong address and my credit card was charged twice.,email,normal,15
+100225,,"Good morning, the parcel arrived damaged. Thanks in advance.",email,normal,24
+100226,Order not delivered,"Hi team, it was delivered to the wrong address.",email,low,118
+100227,Click and collect,"Hello, the store was dirty.",chat,normal,110
+100228,Where is my order?,it was delievred to the wrong address. Thanks in advance.,app,normal,6
+100229,Cannot sign in,,email,low,0
+100230,Order not delivered,"Good mornin,g tracking says delivered but I got nothing. This is really annoying.",chat,normal,105
+100231,Refund,"Hi team, my voucher code is not accepted. This is really annoying.",email,low,96
+100232,Delivery issue,"Good morning, I received the wrong item.",email,high,53
+100233,Wrong charge,"Good morning, paypal payment failed at checkout. Thanks in advance.",app,normal,14
+100234,Store complaint,the price in the store differs from the shelf label.,chat,normal,15
+100235,Where is my order?,"Good morning, my package has not arrived. Please help.",email,low,12
+100236,Refund,"Good morning, direct debit was rejected. This is really annoying.",app,normal,107
+100237,Click and collect,"Dear support, the store was closed during opening hours. This is really annoying.",email,low,115
+100238,Damaged parcel,"Hi team, I received the wrong item. This is really annoying.",email,normal,106
+100239,Scanner,"Hello, I cannot scan my loyalty card in the app. Thanks in advance.",chat,low,8
+100240,Question about my visit,"Dear support, the cashier was very rude. Please help.",app,low,89
+100241,Delivery issue,"Good morning, my package has not arrived. Can you fix this?",phone,normal,83
+100242,Cannot sign in,I cannot log in anymore. Can you fix this?,app,normal,67
+100243,Wrong charge,"Hello, paypal payment failed at checkout. Please help.",email,normal,43
+100244,Click and collect,"Dear support, delivery is already a week late and the store was dirty. Can you fix this?",email,normal,45
+100245,Payment problem,"Good morning, direct debit was rejected.",chat,high,28
+100246,Cannot sign in,"Good morning, my profile shows someone else's data. Please help.",email,normal,102
+100247,Payment problem,I was billed after cancelling my order.,email,normal,3
+100248,Where is my order?,it was delivered to the wrong address. Thanks in advance.,email,normal,22
+100249,,I was billed after cancelling my order. Can you fix this?,app,low,69
+100250,Login problem,please delete my account. Please help.,chat,high,89
+100251,Question about my visit,"Hi team, my click and collect order was not ready. Can you fix this?",email,normal,15
+100252,Payment problem,"Good morning, direct debit was rejected. Can you fix this?",email,normal,31
+100253,Payment problem,"Dear support, direct debit was rejected.",email,normal,106
+100254,Delivery issue,"Good morning, my package has not arrived.",chat,low,12
+100255,Voucher,"Hello, the refund has not arrived yet.",email,normal,32
+100256,Order not delivered,"Good morning, I received the wrong item. Thanks in advance.",chat,normal,82
+100257,Password,"Good morning, I forgot my password. Please help.",email,low,100
+100258,Delivery issue,"Dear support, my package has not arrived. Thanks in advance.",phone,normal,28
+100259,Wrong charge,"Hello, direct debit was rejected.",phone,normal,38
+100260,Where is my order?,I received the wrong item. Can you fix this?,chat,normal,52
+100261,Scanner,"Good morning, the app crashes on startup. Please help.",email,normal,39
+100262,Question about my visit,"Hi team, the product was out of sotck in the store.",app,normal,37
+100263,Store feedback,the store was dirty. This is really annoying.,chat,low,40
+100264,Order not delivered,"Good morning, tracking says delivered but I got nothing. Thanks in advance.",app,normal,82
+100265,Voucher,"Good morning, the invoice shows the wrong amount. Can you fix this?",email,normal,21
+100266,Login problem,"Hi team, the two-factor code does not work. This is really annoying.",email,normal,4
+100267,Click and collect,"Hi team, the price in the store differs from the shelf label. This is really annoying.",app,normal,79
+100268,Where is my order?,"Hi team, my package has not arrived. Plesae help.",chat,low,106
+100269,App not working,"Dear support, the product was out of stock in the store and the app shows a blank screen after the update.",email,normal,10
+100270,Where is my order?,"Dear support, delivery is already a week late.",email,low,87
+100271,Question about my visit,"Hi team, my click and collect order was not ready.",phone,normal,102
+100272,Account,"Dear support, please delete my account. This is really annoying.",app,low,32
+100273,Login problem,"Good morning, I forgot my password. This is really annoying.",email,low,104
+100274,Store complaint,"Hello, the product was out of stock in the store. Please help.",app,high,64
+100275,Login problem,I forgot my password. Can you fix this?,email,high,16
+100276,Click and collect,the store was closed during opening hours. Can you fix this?,email,normal,81
+100277,Delivery issue,"Good morning, delivery is already a week late and the queue at the checkout was far too long.",chat,normal,10
+100278,Voucher,I was billed after cancelling my order. Thanks in advance.,email,low,18
+100279,App not working,the store was dirty and I cannot scan my loyalty card in the app. Can you fix this?,whatsapp,normal,89
+100280,Voucher,"Good morning, the invoice shows the wrong amount. Can you fix this?",chat,high,96
+100281,Voucher,"Good morning, my voucher code is not accepted. Please help.",email,low,106
+100282,,the barcode scanner in the app does not work. Can you fix this?,whatsapp,low,111
+100283,App not working,,whatsapp,low,37
+100284,Account,"Good morning, my profile shows someone else's data.",email,normal,45
+100285,Where is my order?,"Good morning, the parcel arrived damaged.",email,normal,6
+100286,Store complaint,the prodcut was out of stock in the store. Please help.,app,normal,32
+100287,Click and collect,the product was out of stock in the store. Please help.,email,normal,94
+100288,Account,"Hi team, the pickup point is closed and I forgot my password. Please help.",email,normal,60
+100289,App bug,"Hello, the app crashes on startup. This is really annoying.",email,normal,105
+100290,Password,"Hi team, I cannot log in anymore. Please help.",email,normal,36
+100291,Where is my order?,"Good morning, it was delivered to the wrong address. Thanks in advance.",phone,normal,0
+100292,Damaged parcel,it was delivered to the wrong address. Pelase help.,chat,low,94
+100293,Scanner,the queue at the checkout was far too long and the app shows a blank screen after the update. Please help.,phone,normal,94
+100294,App bug,"Hi team, the voucher does not show up in the app. Can you fix this?",email,normal,12
+100295,Refund,"Hello, my voucher code is not accepted and I cannot scan my loyalty card in the app. Thanks in advance.",email,low,84
+100296,App bug,I cannot scan my loyalty card in the app. Can you fix this?,email,low,63
+100297,Damaged parcel,"Dear support, it was delivered to the wrnog address. Thanks in advance.",email,normal,89
+100298,Store feedback,"Dear support, the store was dirty.",email,normal,36
+100299,Refund,paypal payment failed at checkout. Can you fix this?,app,normal,111
+100300,Refund,"Good morinng, the invoice shows the wrong amount.",whatsapp,normal,91
+100301,Account,"Hello, my profile shows someone else's data. Please help.",email,high,56
+100302,Payment problem,"Good morning, my voucher code is not accepte.d Please help.",email,normal,41
+100303,Refund,"Hello, I was billed after cancelling my order.",email,low,72
+100304,Refund,"Hello, I was billed after cancelling my orde.r Thanks in advance.",app,low,69
+100305,Question about my visit,"Hi team, the price in the store differs from the shelf label. Thanks in advance.",phone,normal,47
+100306,Login problem,"Hello, please delete my account.",email,normal,24
+100307,Payment problem,my credit card was charged twice and the password reset email never arrives. Thanks in advance.,email,low,13
+100308,Voucher,the invoice shows the wrong amount.,email,normal,5
+100309,Invoice,"Hello, I was billed after cancelling my order.",phone,normal,88
+100310,Store feedback,"Dear support, the price in the store differs from the shelf label.",chat,low,65
+100311,App bug,the app is very slow since the last version.,email,high,58
+100312,Refund,"Hi team, my voucher code is not accepted.",email,high,60
+100313,Click and collect,"Good morning, the store was dirty.",chat,high,26
+100314,Payment problem,"Dear support, I was billed after cancelling my order.",email,normal,115
+100315,Order not delivered,I received the wrong item and the store was closed during opening hours. Can you fix this?,app,high,42
+100316,Store feedback,"Hello, the product was out of stock in the store. Please help.",app,normal,9
+100317,Damaged parcel,delivery is already a week late. This is really annoying.,chat,normal,90
+100318,Wrong charge,"Dear support, my credit card was charged twice. Thanks in advance.",email,normal,87
+100319,Question about my visit,"Hi team, the store was closed during opening hours. Can you fix this?",chat,low,11
+100320,Password,I forgot my password. Can you fix this?,email,normal,101
+100321,Password,"Hello, the two-factor code does not work.",phone,normal,60
+100322,Invoice,"Good mornin,g my voucher code is not accepted. Thanks in advance.",email,normal,88
+100323,Click and collect,the cashier was very rude. Please help.,email,normal,60
+100324,Damaged parcel,it was delivered to the wrong address. Thanks in advance.,chat,low,77
+100325,Password,"Hello, the password reset email never arrives. Can you fix this?",app,normal,70
+100326,Damaged parcel,,phone,low,75
+100327,Login problem,"Hello, please delete my account. Thanks in advance.",email,normal,34
+100328,Question about my visit,"Dear support, the app crashes on startup and the cashier was very rude. This is really annoying.",email,normal,55
+100329,Wrong charge,"Hello, the refund has not arrived yet. Can you fix this?",chat,normal,86
+100330,Payment problem,direct debit was rejected.,email,low,91
+100331,Password,"Hello, my profile shows someone elses' data. This is raelly annoying.",app,low,53
+100332,App not working,"Good morning, I want to change my email address and the app crashes on startup.",email,low,5
+100333,Order not delivered,"Hello, delivery is already a week late. Thanks in advance.",email,high,101
+100334,App not working,"Good morning, the app is very slow since the last version. Please help.",app,low,68
+100335,Invoice,"Hi team, my voucher code is not accepted. This is really annoying.",chat,normal,66
+100336,Invoice,"Dear supoprt, paypal payment failed at checkout. Please help.",email,normal,113
+100337,Damaged parcel,"Hello, delivery is already a week late.",email,normal,36
+100338,Voucher,"Dear support, my voucher code is not accepted. Thanks in advance.",chat,normal,110
+100339,Damaged parcel,"Hi team, it was delivreed to the wrong address. Thanks in advance.",email,normal,67
+100340,App not working,I cannot scan my loyalty card in the app. Thakns in advance.,app,normal,104
+100341,Wrong charge,"Dear support, the invoice shows the wrong amount. Please help.",phone,high,88
+100342,Where is my order?,"Good morning, the pickup point is closed. Can you fix this?",phone,low,99
+100343,App problem,"Good morning, the barcode scanner in the app does not work. This is really annoying.",email,high,84
+100344,App bug,"Hello, the barcode scanner in the app does not work. This is really annoying.",chat,normal,58
+100345,Password,"Good morning, I cannot log in anymore. Can you fix this?",chat,low,87
+100346,Damaged parcel,"Hello, my package has not arrived. Can you fix this?",email,normal,45
+100347,Where is my order?,"Good morning, I received the wrong item and I want to change my email address. This is really annoying.",email,low,39
+100348,Store complaint,"Hi team, the price in the store differs from the shelf label.",email,normal,72
+100349,Voucher,"Hi team, my credit card was charged twice.",chat,normal,50
+100350,App bug,the password reset email never arrives and the app crashes on startup.,chat,low,87
+100351,Order not delivered,"Good morning, it was delivered to the wrong address. Thanks in advance.",chat,low,80
+100352,Wrong charge,"Good morning, the refund has not arrived yet.",whatsapp,low,54
+100353,Cannot sign in,my profile shows someone else's data.,email,normal,4
+100354,App problem,"Dear support, the app shows a blank screen after the update. Please help.",email,normal,73
+100355,Question about my visit,"Hi team, the price in the store differs from the shelf label. Thanks in advance.",chat,normal,74
+100356,Delivery issue,"Hi team, the pacrel arrived damaged. Please help.",email,high,9
+100357,Account,my package has not arrived and please delete my account.,chat,low,81
+100358,App bug,"Good morning, my voucher code is not accepted and I cannot scan my loyalty card in the app. Can you fix this?",chat,low,38
+100359,Login problem,"Good morning, my credit card was charged twice and I want to change my email address. Can you fix this?",app,low,41
+100360,Damaged parcel,"Dear support, tracking says delivered but I got nothing. Please hel.p",chat,low,102
+100361,Order not delivered,the parcel arrived damaged. Pelase help.,email,normal,5
+100362,Delivery issue,"Hello, my package has not arrived. Please help.",chat,normal,27
+100363,Damaged parcel,my package has not arrived. Thanks in advance.,whatsapp,low,87
+100364,Cannot sign in,"Good morning, I want to change my email address. This is really annoying.",email,low,51
+100365,Refund,"Good morning, the invoice shows the wrong amount. Please help.",chat,normal,40
+100366,Delivery issue,"Good morning, delivery is already a week late.",chat,normal,26
+100367,Order not delivered,"Hello, my profile shows someone else's data and the parcel arrived damaged.",email,low,10
+100368,Login problem,the password reset email never arrives. Thanks in advance.,phone,normal,21
+100369,Damaged parcel,"Hi team, delivery is already a week late. Can you fix this?",email,high,30
+100370,App bug,"Good morning, I cannot scan my loyalty card in the app. Please help.",phone,low,20
+100371,App problem,"Hello, I cannot scan my loyalty card in the app.",phone,normal,72
+100372,Order not delivered,I received the wrong item. Can you fix this?,chat,high,65
+100373,App bug,,email,normal,34
+100374,App not working,push notifications are not showing. Please help.,email,low,48
+100375,Login problem,my profile shows someone else's data.,app,high,61
+100376,Invoice,"Hi team, the refund has not arrived yet.",email,normal,97
+100377,Damaged parcel,"Hello, tracking says delivered but I got nothing. Can you fix this?",email,normal,22
+100378,Login problem,"Dear support, please delete my account. Can you fix this?",chat,normal,53
+100379,,my creidt card was charged twice and my click and collect order was not ready.,email,low,43
+100380,Store feedback,the queue at the checkout was far too long.,email,normal,85
+100381,Wrong charge,"Hi team, the refund has not arrived yet. Please help.",email,low,96
+100382,Order not delivered,"Hello, my package has not arrived.",email,low,23
+100383,Click and collect,my click and collect order was not ready.,app,normal,113
+100384,Voucher,"Hello, direct debit was rejected. Thanks in advance.",app,normal,113
+100385,Where is my order?,the parcel arrived damaged. This is really annoying.,chat,normal,108
+100386,Click and collect,"Dear support, the price in the store differs from the shelf label. This is really annoying.",chat,normal,2
+100387,Click and collect,my click and collect order was not ready. This is really annoying.,email,normal,20
+100388,Question about my visit,the queue at the checkout was far too long. Thanks in advance.,chat,normal,49
+100389,Invoice,my voucher code is not accepted. Thanks in advance.,chat,low,36
+100390,Store feedback,"Hi team, the cashier was very rude. Thanks in advance.",email,normal,9
+100391,Cannot sign in,"Hello, my profile shows someone else's data. Please help.",chat,low,106
+100392,Refund,"Hi team, my credit card was charged twice. Thanks in adavnce.",chat,normal,108
+100393,,paypla payment failed at checkout. Can you fix this?,chat,normal,62
+100394,Payment problem,"Good morning, delivery is already a week late and dircet debit was rejected.",whatsapp,low,79
+100395,Store feedback,"Dear support, my click and collect order was not ready. Thanks in advance.",chat,normal,8
+100396,Login problem,"Hello, my profile shows someone else's data. Please help.",chat,normal,41
+100397,Where is my order?,"Good morning, direct debit was rejected and my package has not arrived. Can you fix this?",chat,normal,23
+100398,Damaged parcel,delivery is already a week late. Thanks in advance.,chat,high,12
+100399,Where is my order?,"Hello, dleivery is already a week late.",chat,low,96
+100400,Voucher,the refund has not arrived yet.,email,low,87
+100401,Login problem,"Good morning, please delete my account. Can you fix this?",app,high,96
+100402,Password,"Dear support, I cannot log in anymore. Please help.",email,normal,10
+100403,Damaged parcel,"Hi team, I receievd the wrong item.",app,high,70
+100404,Store feedback,"Hi team, the queue at the checkout was far too long. This is really annoying.",phone,normal,96
+100405,Where is my order?,"Dear support, the pickup point is closed. Thanks in advance.",chat,low,6
+100406,Delivery issue,"Hello, the parcel arrived damaged. Please help.",app,high,62
+100407,Invoice,"Good morning, direct debit was rejected. Please help.",email,high,32
+100408,Invoice,"Dear support, the refund has not arrived yet.",whatsapp,normal,84
+100409,App not working,"Hi team, the vuocher does not show up in the app.",app,low,94
+100410,App problem,"Hello, the barcode scanner in the app does not work. Please hlep.",app,normal,103
+100411,Voucher,"Good morning, direct debit was rejected. Thanks in advance.",email,low,118
+100412,,delivery is already a week late and the voucher does not show up in the app.,email,normal,68
+100413,Wrong charge,the refund has not arrived yet. Please help.,email,low,59
+100414,Payment problem,the invoice shows the wrong amount and push notifications are not showing.,app,normal,28
+100415,Damaged parcel,"Hi team, the parcel arrived damaged. Thakns in advance.",phone,low,52
+100416,Order not delivered,tracking says delivered but I got nothing. Please help.,email,high,72
+100417,App problem,the app is very slow since the last version. Can you fix this?,email,normal,4
+100418,Store feedback,"Good morning, the queue at the checkout was far too long. This is really annoying.",email,low,81
+100419,Refund,"Hi taem, my credit card was charged twice.",chat,normal,33
+100420,Login problem,"Hi team, please delete my account.",phone,normal,55
+100421,Damaged parcel,,email,normal,105
+100422,Cannot sign in,"Dear support, my profile shows someone else's data. Can you fix this?",email,high,52
+100423,Password,the two-factor code does not work.,chat,low,94
+100424,Order not delivered,"Hello, the pickup point is closed. Can you fix thi?s",chat,low,50
+100425,Damaged parcel,"Hello, my package has not arrived. This is really annoying.",email,normal,28
+100426,Store complaint,"Dear support, the price in the store differs from the shelf label. Can you fix this?",email,normal,56
+100427,Click and collect,my click and collect order was not ready. Can you fix this?,chat,low,84
+100428,Invoice,"Hi team, the invoice shows the wrong amount. Can you fix this?",chat,normal,47
+100429,Invoice,"Hello, the invoice shosw the wrong amount. This is realyl annoying.",chat,normal,3
+100430,Account,"Dear support, the barcode scanner in the app does not work and I forgot my password. Please help.",app,high,22
+100431,Damaged parcel,it was delivered to the wrong address. Thanks in advance.,email,normal,91
+100432,App not working,"Good morning, push notifications are not showing. This is really annoying.",email,high,48
+100433,Store complaint,,email,normal,69
+100434,Store complaint,"Dear support, my click and collect order was not ready.",email,high,9
+100435,Cannot sign in,the password reset email never arrives and the app crashes on startup. Thanks in advance.,chat,high,66
+100436,App not working,push notifications are not showing. Thanks in advance.,chat,normal,106
+100437,Payment problem,direct debit was rejected. Can you fix this?,app,normal,73
+100438,Where is my order?,the pickup point is clsoed.,chat,normal,52
+100439,Delivery issue,,email,high,35
+100440,Password,"Hello, the two-factor code does not work. Please help.",chat,normal,28
+100441,Scanner,my voucher code is not accepted and the barcode scanner in the app does not work. Can you fix this?,email,low,88
+100442,Question about my visit,the store was dirty. Can you fix this?,chat,normal,67
+100443,Refund,"Hi team, paypal payment failed at checkout and the price in the store differs from the shelf label. Thanks in advance.",email,normal,82
+100444,Question about my visit,"Dear support, the store was closed during opening hours.",chat,low,106
+100445,Password,I cannot log in anymore. Thanks in advance.,phone,high,6
+100446,Payment problem,"Hi team, my voucher code is not accepted. Can you fix this?",app,low,67
+100447,Invoice,my voucher code is not accepted.,email,normal,102
+100448,Account,"Hi team, I forgot my password. Can you fix this?",email,low,113
+100449,Damaged parcel,it was delivered to the wrong address. This is really annoying.,app,low,29
+100450,Where is my order?,"Hello, the parcel arrived damaged. Thanks in advance.",chat,normal,113
+100451,App problem,"Hello, I cannot scan my loyalty card in the app.",email,normal,72
+100452,Order not delivered,delivery is already a week late.,phone,low,66
+100453,Damaged parcel,"Hi team, tracking says delivered but I got nothnig. This is really annoying.",email,low,58
+100454,Store feedback,"Dear support, the price in the store differs from the shelf label. Please help.",whatsapp,normal,35
+100455,Damaged parcel,"Hello, tracking says delivered but I got nothing.",chat,normal,25
+100456,Voucher,"Hi team, direct debit was rejected.",chat,low,66
+100457,Damaged parcel,my package has not arrived. Thanks in advance.,email,low,104
+100458,Password,please delete my account. Thanks in advance.,email,low,86
+100459,Account,"Hello, the password reset email never arrives. Please help.",app,normal,8
+100460,Click and collect,the cashier was very rude. This is really annoying.,email,low,12
+100461,Voucher,"Good morning, my voucher code is not accepted. This is really annoying.",phone,normal,104
+100462,Damaged parcel,,phone,normal,66
+100463,,"Good morning, my voucher code is not accepted.",chat,normal,17
+100464,Question about my visit,"Good morning, direct debit was rejected and the store was closed during opening hours.",phone,high,18
+100465,Cannot sign in,"Hello, my profile shows someone else's data. Please help.",email,normal,77
+100466,Click and collect,"Dear support, the store was dirty.",email,normal,94
+100467,Login problem,"Good morning, I want to change my email address. Please help.",email,low,16
+100468,Click and collect,the price in the store differs from the shelf label. Can you fix this?,app,normal,9
+100469,Where is my order?,"Good morning, I cannot scan my loyalty card in the app and it was delivered to the wrong address. Can you fix this?",chat,normal,7
+100470,Delivery issue,"Dear support, tracking says delivered but I got nothing. Thanks in advance.",chat,normal,16
+100471,App bug,"Good morning, the app crashes on startup. Please help.",app,high,20
+100472,Store feedback,"Good morning, the product was out of stock in the store. Please help.",email,normal,35
+100473,Damaged parcel,delivery is already a week late and the barcode scanner in the app does not work. Thanks in advance.,email,low,79
+100474,Refund,"Dear support, my vouhcer code is not accepted.",chat,low,52
+100475,Scanner,"Dear support, the barcode scanner in the app does not work.",chat,normal,34
+100476,Cannot sign in,"Hi team, the two-factor code does not wokr. Can you fix this?",app,low,12
+100477,Account,"Good morning, please delete my account.",chat,low,59
+100478,Store complaint,the store was dirty. Please help.,email,normal,6
+100479,App problem,"Hello, I cannot scan my loyalty card in the app. This is really annoying.",phone,low,92
+100480,Invoice,"Dear support, I was billed after cancelling my order.",email,high,107
+100481,Delivery issue,"Hello, the parcel arrived damaged. This is really annoying.",email,low,29
+100482,Order not delivered,"Hello, my package has not arrived.",email,low,95
+100483,Login problem,the two-factor code does not work. This is really annoying.,email,high,12
+100484,Password,"Hello, I cannot log in anymore. This is really annoyin.g",phone,high,49
+100485,Wrong charge,"Hello, the refund has not arrived yet. Please help.",chat,normal,6
+100486,Store complaint,"Good morning, the store was dirty. Can you fix this?",email,low,100
+100487,Login problem,"Hello, please dleete my account. Please help.",email,normal,35
+100488,Delivery issue,"Hello, my click and collect odrer was not ready and my package has not arrived.",email,normal,50
+100489,Payment problem,"Dear support, I was billed after cancelling my order. Can you fix this?",email,low,101
+100490,Scanner,"Good morning, the barcode scanner in the app does not work.",email,normal,11
+100491,Refund,I was billed after cancelling my order. Please help.,app,high,27
+100492,Login problem,"Hello, the password reset email never arrives.",email,normal,83
+100493,Cannot sign in,I cannot log in anymore.,chat,high,106
+100494,Delivery issue,it was delivered to the wrong address.,app,normal,62
+100495,Order not delivered,"Good morning, delivery is already a week late.",email,low,14
+100496,,"Hello, my credit card was charged twice. This is really annoying.",phone,normal,92
+100497,App bug,"Good morning, I cannot scan my loyalty card in the app. Please help.",whatsapp,normal,4
+100498,Voucher,"Hello, I was billed after cancelling my order.",email,normal,99
+100499,Store complaint,the store was dirty. Can you fix this?,chat,low,30
+100500,Refund,"Hello, my credit card was charged twice. Can you fix this?",chat,high,75
+100501,App bug,"Dear support, I cannot scan my loyalty card in the app. This is really annoying.",chat,high,40
+100502,App not working,the app shows a blank screen after the update. Please help.,app,normal,3
+100503,Order not delivered,it was delivered to the wrong address.,email,normal,107
+100504,Click and collect,"Hi team, my click and collect order was not ready and the barcode scanner in the app does not work. Thanks in advance.",chat,normal,114
+100505,Wrong charge,"Good morning, my voucher code is not accepted.",app,low,103
+100506,Order not delivered,"Good morning, it was dleivered to the wrong address. This is really annoying.",app,normal,3
+100507,Order not delivered,"Hi team, delivery is already a week lat.e",chat,low,17
+100508,Store feedback,"Helol, the queue at the checkout was far too long. Can you fix this?",email,normal,107
+100509,App bug,"Good morning, the voucher does not show up in the app. Thanks in advance.",chat,low,67
+100510,,"Hello, I cannot log in anymore. Thanks in advance.",chat,normal,111
+100511,Payment problem,"Good morning, I was billed after cancelling my order. Can you fix this?",chat,normal,40
+100512,Voucher,"Dear support, direct debit was rejected. Can you fix this?",email,high,5
+100513,Delivery issue,tracking says delivered but I got nothing. Thanks in advance.,app,normal,108
+100514,Login problem,my profile sohws someone else's data. This is really annoying.,email,normal,30
+100515,Voucher,I was billed after cancelling my order.,email,low,4
+100516,Delivery issue,,email,high,52
+100517,App not working,"Hello, the barcode scanner in the app does not work.",email,low,53
+100518,Where is my order?,"Hello, the pickup point is closed.",app,low,19
+100519,Order not delivered,"Dear support, the pickup point is closed. Thanks in advance.",email,low,26
+100520,Password,"Good morning, the two-factor code does not work.",chat,normal,89
+100521,Where is my order?,delivery is already a week late and the password reset email never arrives. Thanks in advance.,email,high,73
+100522,Payment problem,"Dear support, my voucher code is not accepted. Thanks in advance.",email,normal,29
+100523,Where is my order?,"Good morning, delivery is already a week late. Can you fix this?",email,low,47
+100524,Store feedback,"Hi team, the store was dirty. Can you fix this?",phone,low,84
+100525,App not working,"Dear support, the barcode scanner in the app does not work. Please help.",chat,normal,77
+100526,Damaged parcel,"Hello, my package has not arrievd. Can you fix this?",chat,normal,45
+100527,Payment problem,"Hello, paypal payment failed at checkout. This is really annoying.",app,normal,110
+100528,,delivery is already a week late.,email,high,54
+100529,Payment problem,my credit card was charged twice.,whatsapp,normal,109
+100530,Cannot sign in,the password reset email never arrives and the voucher does not show up in the app.,email,normal,63
+100531,Question about my visit,"Good morning, the store was dirty. Thanks in advance.",email,normal,50
+100532,Login problem,please delete my account. Thanks in advance.,whatsapp,normal,9
+100533,Cannot sign in,"Dear support, I forgot my password and push notifications are not showing. Thanks in advance.",phone,low,77
+100534,Store feedback,"Dear support, the store was closed during opening hours. Please help.",chat,high,91
+100535,Store feedback,"Good morning, the store was dirty. Please help.",email,high,100
+100536,Invoice,"Hello, the refund has not arrievd yet.",chat,high,88
+100537,Where is my order?,it was delivered to the wrong address. Thanks in advance.,chat,normal,91
+100538,Click and collect,the store was dirty and the refund has not arrived yet. Can you fix this?,email,normal,10
+100539,Click and collect,"Hello, the store was dirty. Can you fix this?",email,low,71
+100540,,"Dear support, my voucher code is not accepted. Please help.",whatsapp,low,29
+100541,Account,the password reset email never arrives. Thanks in advnace.,chat,normal,21
+100542,Store complaint,the store was closde during opening hours.,app,normal,29
+100543,Store complaint,"Good morning, the store was dirty.",email,normal,55
+100544,Wrong charge,"Hello, paypal payemnt failed at checkout.",email,normal,48
+100545,Invoice,the refund has not arrived yet.,app,high,58
+100546,Invoice,"Hi team, the voucher does not show up in the app and I was billed after cancelling my order.",whatsapp,low,19
+100547,Refund,direct debit was rejected. Can you fix this?,email,normal,95
+100548,Payment problem,"Dear support, the refund has not arrived yet.",email,low,45
+100549,Payment problem,"Dear support, the refund has not arrived yet.",email,normal,60
+100550,App not working,"Good morning, the app is very slow since the last version. Thanks in advance.",phone,normal,9
+100551,Delivery issue,"Dear support, my package has not arrived. Please help.",phone,low,94
+100552,App not working,I cannot scan my loyalty card in the app. Thanks in advance.,email,low,108
+100553,Cannot sign in,"Hi team, I want to change my email address.",email,high,26
+100554,App bug,"Good morning, the barcode scanner in the app does not work. This is really annoying.",chat,normal,37
+100555,Wrong charge,my voucher code is not accepted.,email,low,48
+100556,Delivery issue,"Good morning, the pickup point is closed. Thanks in advance.",phone,low,70
+100557,Order not delivered,"Hello, delivery is already a week late. Thanks in advance.",email,normal,32
+100558,Store complaint,"Hi team, the queue at the checkout was far too long.",chat,normal,74
+100559,Password,please delete my account. Please help.,email,normal,118
+100560,Scanner,"Good morning, the app crashes on startup.",chat,high,103
+100561,Invoice,the invoice shows the wrong amount. Thnaks in advance.,phone,normal,7
+100562,Damaged parcel,I received the wrong item.,phone,low,81
+100563,Wrong charge,my voucher code is not accepted. This is really annoying.,app,normal,41
+100564,Order not delivered,"Hello, tracking says delivered but I got nothing. Can you fix this?",email,low,89
+100565,Order not delivered,I received the wrong item. Can you fix this?,email,normal,17
+100566,Damaged parcel,"Good morning, it was delivered to the wrong address. Please help.",app,normal,83
+100567,Order not delivered,tracking says delivered but I got nothing. This is really annoying.,chat,low,18
+100568,App bug,"Good morning, the barcode scanner in the app does not work and the two-factor code does not work. Can you fix this?",app,low,86
+100569,Refund,I forgot my password and I was billed after cancelling my order.,email,normal,80
+100570,Account,"Good morning, I want to change my email address.",email,normal,49
+100571,Invoice,"Dear support, my voucher code is not accepted. Can you fix this?",email,normal,89
+100572,App not working,push notifications are not showing. Please help.,chat,normal,39
+100573,Login problem,,email,normal,41
+100574,Account,"Good morning, I cannot log in anymore.",app,high,17
+100575,Payment problem,"Hi team, I was billed atfer cancelling my order.",app,low,74
+100576,App not working,"Dear support, the barcode scanner in the app does not work. Can you fix this?",chat,low,1
+100577,Store feedback,the cashier was very rude. Thanks in advance.,phone,normal,2
+100578,Voucher,"Good morning, paypal payment failed at checkout. Please help.",chat,normal,114
+100579,Where is my order?,it was delivered to the wrong address. Can you fix this?,email,high,116
+100580,Password,"Hi team, my profile shows someone else's data.",email,high,79
+100581,Store complaint,the cashier was very rude. Can you fix this?,chat,normal,87
+100582,Account,"Hi team, please delete my account. This is really annoying.",phone,low,118
+100583,Click and collect,the qeuue at the checkout was far too long.,chat,normal,66
+100584,Question about my visit,"Dear support, the store was dirty. Please help.",email,high,72
+100585,,the password reset email never arrives. Thanks in advance.,chat,low,45
+100586,Question about my visit,my click and collect order was not ready. This is really annoying.,phone,low,41
+100587,Where is my order?,"Hi team, it was delivered to the wrong address.",email,low,29
+100588,Payment problem,"Dear support, paypal payment failed at checkout. Please help.",app,normal,55
+100589,Refund,"Hello, paypal payment failed at checkout and the voucher does not show up in the app. Can you fix this?",email,normal,44
+100590,Store complaint,the store was dirty. Can you fix this?,app,normal,90
+100591,Store feedback,the price in the store differs from the shelf label.,email,low,60
+100592,Where is my order?,the pickup point is closed. This is really annoying.,app,low,76
+100593,Invoice,paypal payment failed at checkout. Please help.,email,normal,55
+100594,Voucher,"Hi team, the invoice shows the wrong amount. This is really annoying.",email,normal,77
+100595,App problem,"Good morning, the app is very slow since the last version. Thanks in advance.",app,low,32
+100596,App bug,"Hi team, the app is very slow since the last version. Can you fix this?",email,normal,20
+100597,Invoice,direct debit was rejected. This is really annoying.,chat,normal,84
+100598,Voucher,"Hi team, the refund has not arrived yet and the product was out of stock in the store. This is really annoying.",email,normal,53
+100599,Refund,"Hi team, my credit card was charged twice. Can you fix this?",chat,low,0
